@@ -1,0 +1,1 @@
+La utilidad principal del patrón Decorator, es la de dotar de funcionalidades dinámicamente a objetos mediante composición. Es decir, vamos a decorar los objetos para darles más funcionalidad de la que tienen en un principio.
